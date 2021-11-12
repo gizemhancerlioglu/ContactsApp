@@ -26,8 +26,7 @@ You will also see any lint errors in the console.
 - Delete contacts from list
 
 <hr>
-<center>
-<i>Here is the screenshot of my project :)</i>
 
-![contacts](https://user-images.githubusercontent.com/39413875/141434643-1773b3d2-fc3e-4711-baa4-5f5dcc7c61f7.PNG)
-</center>
+*Here is the screenshot of my project :)*
+
+![contacts](https://user-images.githubusercontent.com/39413875/141436056-69e2676a-7dd3-4116-aaaf-37202022a2c2.PNG)
